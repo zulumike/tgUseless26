@@ -32,3 +32,5 @@ This project hides the default browser cursor and replaces it with a custom bike
 ## License
 
 This project is open source. Feel free to use and modify as needed.
+ß
+This readme was created with ai
