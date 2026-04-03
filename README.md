@@ -4,11 +4,11 @@ A simple web application that encourages users to use less mouse movement by imp
 
 ## Description
 
-This project hides the default browser cursor and replaces it with a custom bike icon. When the cursor enters the red central area, it accelerates, promoting more efficient mouse usage.
+This project hides the default browser cursor and replaces it with a custom mouse icon. When the cursor enters the red central area, it accelerates, promoting more efficient mouse usage.
 
 ## Features
 
-- Custom cursor with bike icon
+- Custom cursor with mouse icon
 - Accelerated cursor movement in the central red zone
 - Responsive design
 
@@ -32,5 +32,5 @@ This project hides the default browser cursor and replaces it with a custom bike
 ## License
 
 This project is open source. Feel free to use and modify as needed.
-ß
+
 This readme was created with ai
